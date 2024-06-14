@@ -8,4 +8,6 @@ emby的媒体库图片
 
 2024.06.13 更新：外语电影
 
+2024.06.14 更新：周星驰系列
+
 ![预览](https://github.com/weizongxyz/Emby-Media_images/assets/38450244/7ff3eec8-b466-414a-9bb3-d0e662579426)
