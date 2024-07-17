@@ -10,4 +10,6 @@ emby的媒体库图片
 
 2024.06.14 更新：周星驰系列
 
-![预览](https://github.com/weizongxyz/Emby-Media_images/assets/38450244/7ff3eec8-b466-414a-9bb3-d0e662579426)
+2024.07.17 更新：色花堂
+
+<img width="1205" alt="image" src="https://github.com/user-attachments/assets/530e6819-2a52-487e-968b-e5c4e9c569d4">
