@@ -13,3 +13,7 @@ emby的媒体库图片
 2024.07.17 更新：色花堂
 
 <img width="1205" alt="image" src="https://github.com/user-attachments/assets/530e6819-2a52-487e-968b-e5c4e9c569d4">
+
+2024.11.24 更新Symedia项目全套暗色、亮色徽标，圆形及圆角logo
+
+<img width="704" alt="image" src="https://github.com/user-attachments/assets/cb3f088c-280e-4e97-9cf7-366983c93cbd">
