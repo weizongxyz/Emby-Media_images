@@ -17,3 +17,7 @@ emby的媒体库图片
 2024.11.24 更新Symedia项目全套暗色、亮色徽标，圆形及圆角logo
 
 <img width="704" alt="image" src="https://github.com/user-attachments/assets/cb3f088c-280e-4e97-9cf7-366983c93cbd">
+
+2024.11.30 更新 Symedia 巳巳如意主题logo
+
+<img width="1818" alt="image" src="https://github.com/user-attachments/assets/06c0fbe0-e675-4e3e-87a4-efe23658e412">
