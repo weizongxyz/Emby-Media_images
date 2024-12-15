@@ -21,3 +21,9 @@ emby的媒体库图片
 2024.11.30 更新 Symedia 巳巳如意主题logo
 
 <img width="1818" alt="image" src="https://github.com/user-attachments/assets/06c0fbe0-e675-4e3e-87a4-efe23658e412">
+
+2024.12.15 更新一大波新的emby媒体库图片
+
+<img width="1208" alt="image" src="https://github.com/user-attachments/assets/9e0bbacd-f5f7-4d56-8cad-b8a2fce36456" />
+
+
