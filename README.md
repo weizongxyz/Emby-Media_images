@@ -29,3 +29,6 @@ emby的媒体库图片
 2025.05.08 更新部分18禁的动态媒体图 如图所示
 <img width="578" alt="image" src="https://github.com/user-attachments/assets/4f7ada4a-84a4-41b4-9198-59296c760896" />
 
+2025.09.18 更新部分18禁动态媒体图及短剧一张
+<img width="762" height="181" alt="image" src="https://github.com/user-attachments/assets/4715b244-0b0c-488e-83de-2fa290b5c15c" />
+
